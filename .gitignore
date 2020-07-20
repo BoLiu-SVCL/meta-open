@@ -1,0 +1,11 @@
+dataset/miniImageNet/MiniImagenet/
+dataset/miniImageNet/MiniImagenet.tar.gz
+dataset/miniImageNet/train_train
+dataset/miniImageNet/train_val
+dataset/miniImageNet/train_test
+dataset/miniImageNet/val
+dataset/miniImageNet/test
+.idea/
+output/
+core/__pycache__/
+dataset/__pycache__/
